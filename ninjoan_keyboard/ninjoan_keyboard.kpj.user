@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\ninjoan_keyboard.kpj</path>
+    <file ID="id_9e8be27c90fa6a0461025da7d211f9b1" Expanded="1"/>
+    <file ID="id_ff4c071592a03bf577cf20b35b336e72" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_9e8be27c90fa6a0461025da7d211f9b1</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\ninjoan_keyboard.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_ff4c071592a03bf577cf20b35b336e72</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\ninjoan_keyboard.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5447745152d33dd371957ff4dfd82420</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\ninjoan_keyboard.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1fbe7eb47835fbb90f24192b384958cb</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\ninjoan_keyboard.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_14cf524de6ce1ab21d7db83a9ab4599b</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\..\build\ninjoan_keyboard.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_6e465636c90c840850eb720f39804195</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\..\build\ninjoan_keyboard.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7cc51256d162bd161fda1072f1d96f58</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\..\build\ninjoan_keyboard.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f612108dd1dc46cd5a715f80ba816e51</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\..\..\..\..\..\Pictures\reformedninjoan.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c75e230058be8590393e26d0e4beafb8</ID>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\..\..\..\..\..\Pictures\reformedninjoan.png</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>ninjoan_keyboard.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\ninjoan_keyboard.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>ninjoan_keyboard.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\ninjoan_keyboard.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>ninjoan_keyboard.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\build\ninjoan_keyboard.kvk</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>readme.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\readme.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\source\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>ninjoan_keyboard.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\Eli\OneDrive\Documents\Keyman Developer\Projects\ninjoan_keyboard\build\ninjoan_keyboard.js</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

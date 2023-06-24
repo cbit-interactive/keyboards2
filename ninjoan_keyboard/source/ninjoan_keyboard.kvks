@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>ninjoan_keyboard</kbdname>
+    <flags/>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="S">
+      <key vkey="K_A">Α</key>
+      <key vkey="K_B">Β</key>
+      <key vkey="K_C">Ξ</key>
+      <key vkey="K_D">Δ</key>
+      <key vkey="K_E">Ε</key>
+      <key vkey="K_F">Φ</key>
+      <key vkey="K_G">Γ</key>
+      <key vkey="K_H">Η</key>
+      <key vkey="K_I">Ï</key>
+      <key vkey="K_J">Σ</key>
+      <key vkey="K_K">Κ</key>
+      <key vkey="K_L">Λ</key>
+      <key vkey="K_M">Μ</key>
+      <key vkey="K_N">Ν</key>
+      <key vkey="K_O">Ω</key>
+      <key vkey="K_P">Π</key>
+      <key vkey="K_Q">X</key>
+      <key vkey="K_R">Ρ</key>
+      <key vkey="K_S">ʃ</key>
+      <key vkey="K_T">Φ</key>
+      <key vkey="K_U">☧</key>
+      <key vkey="K_V">Υ</key>
+      <key vkey="K_W">Ψ</key>
+      <key vkey="K_X">Ζ</key>
+      <key vkey="K_Y">Y</key>
+      <key vkey="K_Z">Ž</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_A">α</key>
+      <key vkey="K_B">β</key>
+      <key vkey="K_C">ξ</key>
+      <key vkey="K_D">δ</key>
+      <key vkey="K_E">ε</key>
+      <key vkey="K_F">φ</key>
+      <key vkey="K_G">γ</key>
+      <key vkey="K_H">η</key>
+      <key vkey="K_I">ι</key>
+      <key vkey="K_J">σ</key>
+      <key vkey="K_K">κ</key>
+      <key vkey="K_L">λ</key>
+      <key vkey="K_M">μ</key>
+      <key vkey="K_N">ν</key>
+      <key vkey="K_O">ω</key>
+      <key vkey="K_P">π</key>
+      <key vkey="K_Q">χ</key>
+      <key vkey="K_R">ρ</key>
+      <key vkey="K_S">ʄ</key>
+      <key vkey="K_T">θ</key>
+      <key vkey="K_U">þ</key>
+      <key vkey="K_V">υ</key>
+      <key vkey="K_W">ψ</key>
+      <key vkey="K_X">ζ</key>
+      <key vkey="K_Y">ͻ</key>
+      <key vkey="K_Z">ž</key>
+    </layer>
+  </encoding>
+</visualkeyboard>
